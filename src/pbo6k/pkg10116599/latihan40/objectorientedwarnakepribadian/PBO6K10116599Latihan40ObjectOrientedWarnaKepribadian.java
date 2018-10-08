@@ -7,7 +7,12 @@ package pbo6k.pkg10116599.latihan40.objectorientedwarnakepribadian;
 
 /**
  *
- * @author eka
+ * @author 
+ * NAMA     : Robby Eka Purnama
+ * KELAS    : PBO6K
+ * NIM      : 10116599
+ * Deskripsi Program :
+ * 
  */
 public class PBO6K10116599Latihan40ObjectOrientedWarnaKepribadian {
 
@@ -16,6 +21,9 @@ public class PBO6K10116599Latihan40ObjectOrientedWarnaKepribadian {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        
     }
     
 }
